@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=caarlosdamian&label=Profile%20views&color=0e75b6&style=flat" alt="eokezie" /> </p>
  
-- 🌱 I’m currently working as React developer.
+- 🌱 I’m currently working as a React developer.
 
 - ⚡ Fun fact: I love travelling!
 
