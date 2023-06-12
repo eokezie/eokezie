@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently working as a React developer.
 
-- ⚡ Fun fact: I love travelling!
+- ⚡ Fun fact: I love travelling 🚀, playing basketball 🏀, and writing readable and reuseable codes 👨‍💻!
 
 - 📫 How to reach me **okezieemeka949@gmail.com** as well on my contact page [contact me](https://staunchcfo.dev/).
 
